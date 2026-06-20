@@ -19,5 +19,6 @@ Parte do meu trabalho full stack mais recente está em repositórios privados.
 
 ## Contato
 
+- E-mail: pedro.ppsilva09@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pedro-paulo-ads
 - Portfólio: https://pedro-psilva.netlify.app
