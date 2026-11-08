@@ -1,6 +1,6 @@
 # Pedro Paulo
 
-Desenvolvedor full stack e estudante de Análise e Desenvolvimento de Sistemas (Newton Paiva). Trabalho com React + TypeScript no front e Python / Node no back, com foco crescente em IA Generativa e automação.
+Desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas (Newton Paiva). Trabalho com React + TypeScript no front e Python / Node no back, com foco crescente em IA Generativa e automação.
 
 ## Stack
 
